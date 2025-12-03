@@ -108,6 +108,8 @@ O sistema foi modularizado em pipelines para facilitar o entendimento e a manute
 ├── 📄 conversation_chain.py   # Configuração da memória e da cadeia de conversação
 ├── 📄 .env                    # Arquivo de segredos (NÃO COMMITAR)
 └── 📁 docs/                   # Coloque seus PDFs aqui
+```
+---
 
 ## 🧠 Aprendizados Chave
 
